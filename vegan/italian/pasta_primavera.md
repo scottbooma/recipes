@@ -2,7 +2,9 @@
 
 https://www.allrecipes.com/recipe/86515/no-cream-pasta-primavera/
 
-## Veggies
+## Ingredients
+
+### Veggies
 - 1 yellow squash **chopped**
 - 1 zucchini **chopped**
 - 1 carrot **matchsticks**
@@ -16,7 +18,7 @@ https://www.allrecipes.com/recipe/86515/no-cream-pasta-primavera/
 - Salt
 - Pepper
 
-## Pasta
+### Pasta
 - 12oz penne
 - 6+ small/medium cloves of garlic **chopped**
 - 1tbsp olive oil
@@ -24,6 +26,23 @@ https://www.allrecipes.com/recipe/86515/no-cream-pasta-primavera/
 - Lemon zest from 1/2 lemon
 - 1/3 cup fresh basil **chopped**
 
-## Garnish
+### Garnish
 - Cheese (any italian)
 - Fresh basil
+
+
+## Instructions
+
+1. Pre-heat oven to 450F (230C).
+
+2. Toss all ingredients under *Veggies* into a large bowl until everything is thoroughly coated. Add veggie mix to baking sheet.
+
+3. Roast veggies for 15-20 min.
+
+4. Start cooking penne. Boil pasta for about 9-10 min, just before done.
+
+5. Heat up olive oil and butter for pasta in large pan. Once hot add the garlic and let cook for a minute or so. Add the cooked pasta, balsamic vinegar, basil, parsley, and lemon zest. Mix well and cook for a couple minutes.
+
+6. In a large bowl mix the pasta and veggies.
+
+7. After plating top with cheese to tasta and garnish with fresh basil.
